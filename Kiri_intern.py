@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Binary Mask Denoising using UNet
 Author: Mohamed Khalil Kiri
